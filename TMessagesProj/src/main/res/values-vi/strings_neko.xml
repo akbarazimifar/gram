@@ -126,13 +126,6 @@
     <string name="LastUpdateRecently">Vừa kiểm tra thành công lần cuối.</string>
     <string name="LastUpdateNever">Không bao giờ kiểm tra trước khi cài </string>
     <string name="CheckingUpdate">Đang kiểm tra cập nhật…</string>
-    <string name="NewUpdateAvailable">Có một cập nhật mới khả dụng</string>
-    <string name="GuGuGu">Để sau</string>
-    <string name="DownloadNow">Tải xuống ngay</string>
-    <string name="DownloadingUpdate">Đang tải xuống cập nhật ứng dụng</string>
-    <string name="DownloadingUpdateFinish">Đã tải xuống cập nhật, nhấn để cài đặt</string>
-    <string name="DownloadingUpdateFail">Tải xuống cập nhật không thành công</string>
-    <string name="ClickToRetry">Nhấn để thử lại</string>
     <string name="ProviderMicrosoftTranslator">Microsoft Translator</string>
     <string name="TranslationProviderShort">Nhà cung cấp dịch vụ</string>
     <string name="ViewSourceCode">Xem mã nguồn</string>
@@ -150,4 +143,7 @@
     <string name="RegistrationDate">Ngày đăng ký</string>
     <string name="WsDescription">Connect to Telegram through WebSocket via Cloudflare, <![CDATA[<a href=\"https://telegra.ph/wsneko-04-10\">technical details</a>]]>.</string>
     <string name="WsEnableTls">Enable TLS</string>
+    <string name="WsLocalProxy">Proxy cục bộ</string>
+    <string name="WsEnableDoh">Bật DoH</string>
+    <string name="MsgDate">Ngày</string>
 </resources>
