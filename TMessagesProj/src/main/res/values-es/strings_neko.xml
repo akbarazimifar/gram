@@ -126,13 +126,6 @@
     <string name="LastUpdateRecently">Última verificación exitosa hecha recién.</string>
     <string name="LastUpdateNever">Nunca verificado desde la instalación.</string>
     <string name="CheckingUpdate">Buscando actualizaciones…</string>
-    <string name="NewUpdateAvailable">Una nueva actualización está disponible</string>
-    <string name="GuGuGu">Más tarde</string>
-    <string name="DownloadNow">Descargar ahora</string>
-    <string name="DownloadingUpdate">Descargando actualización de aplicación</string>
-    <string name="DownloadingUpdateFinish">Actualización de la aplicación descargada, haga clic para instalar</string>
-    <string name="DownloadingUpdateFail">Falló la aplicación descargada</string>
-    <string name="ClickToRetry">Clic para reintentar.</string>
     <string name="ProviderMicrosoftTranslator">Traductor de Microsoft</string>
     <string name="TranslationProviderShort">Proveedor</string>
     <string name="ViewSourceCode">Ver código fuente</string>
