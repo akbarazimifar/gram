@@ -127,13 +127,6 @@
     <string name="LastUpdateRecently">Последняя успешная проверка была сейчас.</string>
     <string name="LastUpdateNever">Обновления не проверялись после установки.</string>
     <string name="CheckingUpdate">Проверка обновлений…</string>
-    <string name="NewUpdateAvailable">Доступно новое обновление</string>
-    <string name="GuGuGu">Позже</string>
-    <string name="DownloadNow">Загрузить сейчас</string>
-    <string name="DownloadingUpdate">Загрузка обновления</string>
-    <string name="DownloadingUpdateFinish">Обновление загружено, нажмите для установки</string>
-    <string name="DownloadingUpdateFail">Не удалось загрузить обновление</string>
-    <string name="ClickToRetry">Нажмите, чтобы повторить попытку.</string>
     <string name="ProviderMicrosoftTranslator">Перевод Microsoft</string>
     <string name="TranslationProviderShort">Поставщик</string>
     <string name="ViewSourceCode">Посмотреть исходный код</string>
