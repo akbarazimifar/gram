@@ -126,13 +126,6 @@
     <string name="LastUpdateRecently">Ultimo controllo effettuato proprio ora.</string>
     <string name="LastUpdateNever">Mai controllato dall\'installazione.</string>
     <string name="CheckingUpdate">Controllo aggiornamenti…</string>
-    <string name="NewUpdateAvailable">Nuovo aggiornamento disponibile</string>
-    <string name="GuGuGu">Dopo</string>
-    <string name="DownloadNow">Scarica ora</string>
-    <string name="DownloadingUpdate">Download aggiornamento in corso</string>
-    <string name="DownloadingUpdateFinish">Aggiornamento scaricato, clicca per installarel</string>
-    <string name="DownloadingUpdateFail">Download fallito</string>
-    <string name="ClickToRetry">Clicca per riprovare.</string>
     <string name="ProviderMicrosoftTranslator">Microsoft Translator</string>
     <string name="TranslationProviderShort">Fornitore</string>
     <string name="ViewSourceCode">Visualizza codice sorgente</string>
