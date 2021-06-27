@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="NekoSettings">Pengaturan Neko</string>
-    <string name="IPv6">Coba sambungkan melalui IPv6</string>
-    <string name="MessageMenu">Menu pada pesan</string>
-    <string name="HidePhone">sembunyikan nomor telepon saya</string>
-    <string name="Hide">Diam</string>
-    <string name="DeleteAllFromSelf">delete all of this, from yourself</string>
-    <string name="DeleteAllFromSelfAlert">Warning! This will **delete all messages from you** in this chat for **all** participants.</string>
-    <string name="BotLogin">Bot Login</string>
-    <string name="InvalidAccessToken">Invalid access token</string>
-    <string name="IgnoreBlocked">Ignore blocked users in group</string>
-    <string name="Connection">Connection</string>
-    <string name="Chat">Chat</string>
-    <string name="NameOrder">Name order</string>
-    <string name="FirstLast">First Last</string>
-    <string name="LastFirst">Last First</string>
-    <string name="TypefaceUseDefault">Use system default font</string>
-    <string name="NoQuoteForward">NoQuote forward</string>
-    <string name="Repeat">Repeat</string>
-    <string name="AddToSavedMessages">Save message</string>
-    <string name="CreateMention">Create Mention</string>
+    <string name="IPv6">Coba sambungno melalui IPv6</string>
+    <string name="MessageMenu">Menu ning pesan</string>
+    <string name="HidePhone">Delekne nomerku</string>
+    <string name="Hide">Ilangno diluk</string>
+    <string name="DeleteAllFromSelf">Hapus gae awak e dewe</string>
+    <string name="DeleteAllFromSelfAlert">Hayo tiati iki bakal hapus kabeh.</string>
+    <string name="BotLogin">Babu login</string>
+    <string name="InvalidAccessToken">Goblok salah</string>
+    <string name="IgnoreBlocked">Gausah gatekne</string>
+    <string name="Connection">Koneksimu denganya</string>
+    <string name="Chat">Ini? Chat</string>
+    <string name="NameOrder">Nem order</string>
+    <string name="FirstLast">Jeneng akhirmu</string>
+    <string name="LastFirst">Celukan mu yeh</string>
+    <string name="TypefaceUseDefault">Ngawe sing tekan tele</string>
+    <string name="NoQuoteForward">Terusno ra ngawe kutipan</string>
+    <string name="Repeat">Ulangano ayang</string>
+    <string name="AddToSavedMessages">Wis neng pesan tersimpan kae lo</string>
+    <string name="CreateMention">Gawe sebutan</string>
     <string name="ForceTabletMode">Force tablet mode</string>
     <string name="Prpr">Peropero</string>
     <string name="TransparentStatusBar">Bilah status transparan</string>
@@ -145,4 +145,6 @@
     <string name="WsEnableTls">Enable TLS</string>
     <string name="WsLocalProxy">Local proxy</string>
     <string name="WsEnableDoh">Enable DoH</string>
+    <string name="MsgDate">Hari</string>
+    <string name="UpdateNekogram">Apdeten kucingpoi mu</string>
 </resources>
